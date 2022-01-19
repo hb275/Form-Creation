@@ -1,0 +1,22 @@
+input[type="email"],
+input[type="text"],
+input[type="number"],
+textarea,
+select {
+  width: 400px;
+}
+
+label {
+  margin-top: 1rem;
+}
+
+label.checkbox {
+  font-weight: normal;
+}
+
+button[type="submit"] {
+    display: flex;
+    margin:0 auto;
+    margin-left: -1px;
+    margin-top: 40px;
+}
